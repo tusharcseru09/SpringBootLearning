@@ -2,6 +2,8 @@
 http://o7planning.org/en/11665/spring-boot-hibernate-and-spring-transaction-tutorial
 
 <pre>
+<b>Controller</b> can use <b>Service</b> class similarly Service can Repository and Repository can SessionFactory
+</hr>
 Controller
 RestController
   |
