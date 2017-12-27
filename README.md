@@ -22,3 +22,6 @@ https://stackoverflow.com/questions/5640778/hibernate-sessionfactory-vs-entityma
 
 # Some Problem and Resolution we must need to know 
 https://stackoverflow.com/questions/26203446/spring-hibernate-could-not-obtain-transaction-synchronized-session-for-current
+
+properties.put("hibernate.temp.use_jdbc_metadata_defaults", "false");
+http://vkuzel.blogspot.com/2016/03/spring-boot-jpa-hibernate-atomikos.html
