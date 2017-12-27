@@ -10,8 +10,8 @@ RestController
   -->@Autowired
      Service Class
         |
-        -->@Autowired
-           Repository Class
+        -->@Autowired 
+           Repository[Transactional] Class
               |
               -->@Autowired
                  SessionFactory
