@@ -26,3 +26,6 @@ http://vkuzel.blogspot.com/2016/03/spring-boot-jpa-hibernate-atomikos.html
 <pre>
 properties.put("hibernate.temp.use_jdbc_metadata_defaults", "false");
 </pre>
+
+# Add the higher version of Hibernate
+https://stackoverflow.com/questions/40738818/illegalargumentexception-at-least-one-jpa-metamodel-must-be-present
